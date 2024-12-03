@@ -15,6 +15,6 @@
 |Utilization of tasks|   0.05~0.3|
 |Number of GPU segments| 1~3|
 |Task Period|            100~500|
-|C_i / G_i|              0.3~0.7 (0.5~5)|
+|C_i / G_i|              0.3 ~ 0.7 (?0.5 ~ 5)|
 
 last updating time: Dec. 3rd, 2024
