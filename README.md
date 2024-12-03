@@ -7,6 +7,14 @@
 5. The sections "generate tasksets" and "allocation & partitioning (feasibility test)" have been finished which was tested correctedly in Dec. 3rd, 2024. The last section "scheduling simulation" will be tested in near future (maybe before Dec. 8th).
 
 # range of parameters for generation
-=== to be copied ===
+|param|range|
+|--|--|
+|Number of CPU cores|    2~8|
+|Number of tasks|        2~4 * CPU_num_cores|
+|GPU-using / CPU-only|   0.2~2 (1/6 ~ 2/3)|
+|Utilization of tasks|   0.05~0.3|
+|Number of GPU segments| 1~3|
+|Task Period|            100~500|
+|C_i / G_i|              0.3~0.7 (0.5~5)|
 
 last updating time: Dec. 3rd, 2024
